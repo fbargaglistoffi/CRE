@@ -1,5 +1,5 @@
 ---
-title: 'CRE: A R package for interpretable inference of heterogeneous treatment effects'
+title: 'CRE: A R package for interpretable discovery and inference of heterogeneous treatment effects'
 tags:
   - R
   - causal inference
@@ -129,6 +129,6 @@ The results are collected in an S3 object containing: the number of decision rul
 
 # Acknowledgements
 
-We acknowledge contributions from ...
+This work was partially funded by the following grants: NIH: R01ES026217, R01MD012769, R01ES028033, 1R01ES030616, 1R01AG066793, 1R01MD016054-01A1; Sloan Foundation: G-2020-13946.
 
 # References
